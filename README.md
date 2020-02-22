@@ -14,7 +14,7 @@ https://www.nuget.org/packages/Pathoschild.Stardew.ModBuildConfig
 I dunno, load it I guess.
 
 ## Contributing
-Nobody should want to contribute to this, it doesn't do anything.
+Nobody should want to contribute to this, it doesn't do anything yet and will most likely be a hot mess.
 
 ## License
 MIT
