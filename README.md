@@ -5,11 +5,6 @@ Learning github pushing / updating
 
 Relies on Pathoschild's SMAPI repository
 
-```bash
-Reference the Pathoschild.Stardew.ModBuildConfig NuGet package
-https://www.nuget.org/packages/Pathoschild.Stardew.ModBuildConfig
-```
-
 ## Usage
 I dunno, load it I guess.
 
