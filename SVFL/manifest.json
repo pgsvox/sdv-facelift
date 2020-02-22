@@ -1,0 +1,16 @@
+{
+    "Name": "SV Face Lift",
+    "Author": "Vox",
+    "Version": "0.0.1",
+    "Description": "Trying out modding by brighting up pre-existing locations!",
+    "UniqueID": "Vox.SVFL",
+    "EntryDll": "SVFL.dll",
+    "MinimumApiVersion": "2.10.0",
+    "UpdateKeys": [],
+    "Dependencies": [
+        {
+            "UniqueID": "Pathoschild.ContentPatcher",
+            "IsRequired": false
+        }
+    ]
+}
